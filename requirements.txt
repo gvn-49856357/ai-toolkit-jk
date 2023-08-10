@@ -7,11 +7,11 @@ lycoris_lora
 flatten_json
 pyyaml
 oyaml
-tensorboard
+tensorboard=2.12
 kornia
 invisible-watermark
 einops
 accelerate
 toml
 albumentations
-pydantic
+pydantic=1.9.1
